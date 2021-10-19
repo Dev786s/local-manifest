@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<remote name="me" 
+           fetch="https://github.com/Dev786s" />
+
+ <!-- Trees -->
+ <project path="device/xiaomi/merlinx" name="Dev786s/android_device_xiaomi_merlinx.git" remote="me" revision="eleven" />
+ 
+
+</manifest>
