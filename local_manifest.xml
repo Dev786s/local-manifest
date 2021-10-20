@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <manifest>
 
 <remote name="me" 
-           fetch="https://github.com/Dev786s" />
+
+        fetch="https://github.com/Dev786s" />
 
  <!-- Trees -->
+
  <project path="device/xiaomi/merlinx" name="android_device_xiaomi_merlinx.git" remote="me" revision="eleven" />
- 
+
+<project path="device/xiaomi/mt6768-common" name="android_device_xiaomi_mt6768-common.git" remote="me" revision="eleven" />
+
+<project path="vendor/xiaomi/merlinx" name="android_vendor_xiaomi_merlinx.git" remote="me" revision="eleven" />
+
+<project path="kernel/xiaomi/mt6768" name="android_kernel_xiaomi_mt6768.git" remote="me" revision="eleven" />
+
+<!-- Extras -->
+
+ <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr.git" remote="me" revision="eleven"/>
 
 </manifest>
+
+
