@@ -20,12 +20,12 @@
 
  <project path="kernel/xiaomi/mt6768" name="android_kernel_xiaomi_mt6768" remote="me" revision="twelve" />
 
- <!-- Extras -->
+ <!-- Extras 
 
   
 
   <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="me" revision="sc" />
 
-  
+  -->
 
 </manifest>
