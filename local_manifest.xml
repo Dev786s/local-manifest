@@ -23,7 +23,7 @@
 
  <!-- Extras -->
 
-  
+  <remove-project name="hardware_qcom-caf_sm8350_display" path="hardware/qcom-caf/sm8350/display" />
 
   <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="me" revision="twelve" />
 
