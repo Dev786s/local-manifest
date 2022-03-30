@@ -16,7 +16,8 @@
 
  <project path="vendor/xiaomi/merlinx" name="android_vendor_xiaomi_merlinx-1" remote="me" revision="twelve" />
 
- <project path="vendor/xiaomi/mt6768-ims" name="vendor_aosp" remote="me" revision="snowcone" />
+ <project path="vendor/xiaomi/mt6768-ims" name="android_device_xiaomi_mt6768-common-1" remote="me" revision="twelve" />
+
 
  <project path="kernel/xiaomi/mt6768" name="android_kernel_xiaomi_mt6768-1" remote="me" revision="twelve" />
 
