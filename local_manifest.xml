@@ -24,7 +24,8 @@
 
   
 
-  <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="me" revision="sc" />
+  <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="me" revision="twelve" />
+
 
   
 
