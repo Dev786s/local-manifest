@@ -22,9 +22,9 @@
 
  <project path="kernel/xiaomi/mt6768" name="android_kernel_xiaomi_mt6768-1" remote="me" revision="twelve" />
 
- <!-- Extras -->
+ <!-- Extras 
 
-  <remove-project name="hardware_qcom-caf_sm8350_display" path="hardware/qcom-caf/sm8350/display" />
+  <remove-project name="hardware_qcom-caf_sm8350_display" path="hardware/qcom-caf/sm8350/display" /> -->
 
   <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="me" revision="twelve" />
 
